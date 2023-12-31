@@ -1,0 +1,22 @@
+{
+  "name": "learn-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongping/learn-electron.git"
+  },
+  "author": "Tan, Hong Ping",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hongping/learn-electron/issues"
+  },
+  "homepage": "https://github.com/hongping/learn-electron#readme",
+  "devDependencies": {
+    "electron": "^28.1.0"
+  }
+}
